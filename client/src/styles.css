@@ -1,0 +1,20 @@
+body {
+    background-color: #252525;
+}
+
+.title {
+    color: #CECECE;
+    font-style: normal;
+    font-size: 14px !important;
+    margin-left: 5px !important;
+}
+
+.icon {
+    font-size: small !important;
+    margin-left: 5px !important;
+}
+
+.btn {
+    width: 9px !important;
+    height: 9px !important;
+}
